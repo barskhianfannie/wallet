@@ -29,6 +29,7 @@
   },
   "devDependencies": {
     "@types/node": "18.11.17",
+    "@types/react": "18.0.26",
     "@vercel/git-hooks": "1.0.0",
     "autoprefixer": "10.4.13",
     "eslint": "8.30.0",
